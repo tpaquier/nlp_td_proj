@@ -1,1 +1,9 @@
 *.ipynb_checkpoints
+
+**/*.txt..zip
+data/collobert_words.lst
+data/collobert_embeddings.txt/collobert_embeddings.txt
+data/collobert_embeddings.txt/__MACOSX/._collobert_embeddings.txt
+nlp_td_proj/data/collobert_embeddings.txt/__MACOSX/._collobert_embeddings.txt
+nlp_td_proj/data/collobert_embeddings.txt/collobert_embeddings.txt
+data/collobert_embeddings.txt.zip
